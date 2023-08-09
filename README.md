@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Mohammad Ahmed Ansari</h1>
-<h3 align="center">"Crafting Code with HTML, CSS, JS, and Django 🌐 | Exploring the Depths of React ⚛️ | Ethical Hacking and Cybersecurity Enthusiast 🔒 | Committed to Building Secure and Seamless Digital Experiences 💻🛡️"</h3>
+<h3 align="center">Crafting Code with HTML, CSS, JS, and Django 🌐 | Exploring the Depths of React ⚛️ | Ethical Hacking and Cybersecurity Enthusiast 🔒 | Committed to Building Secure and Seamless Digital Experiences 💻🛡️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedansari131&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedansari131" /> </p>
 

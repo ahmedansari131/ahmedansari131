@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **HTML, CSS, Javascript, Django**
+- 💬 Ask me about **HTML, CSS, Javascript, Django, Graphic Design, Logo Design**
 
 - 📫 How to reach me **ansarimohammadahmed49@gmail.com**
 

@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedansari131&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedansari131" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedansari131" alt="ahmedansari131" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedansari131&theme=onedark" alt="ahmedansari131" /></a> </p>
 
 - 🔭 I’m currently working on <a href="https://github.com/ahmedansari131/NoCodeX---Website-Builder-without-code">NoCodeX - Website Builder</a>
 

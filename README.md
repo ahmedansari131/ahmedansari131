@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedansari131&theme=onedark" alt="ahmedansari131" /></a> </p>
 
-- 🔭 I’m currently working on <a href="https://github.com/ahmedansari131/Ezy-Canvas--Library">Ezy-Library | An editor for website builder</a>
+- 🔭 I’m currently working on <a href="https://github.com/ahmedansari131/Ezy-Canvas--Library">Ezy-Canvas | An editor for website builder</a>
 
 - 🌱 I’m currently learning **React JS**
 

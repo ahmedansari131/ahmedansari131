@@ -1,15 +1,13 @@
 <h1 align="center">Hello 👋, I'm Mohammad Ahmed Ansari</h1>
-<h3 align="center">Crafting Code with HTML, CSS, JS, and Django 🌐 | Exploring the Depths of React ⚛️ | Ethical Hacking and Cybersecurity Enthusiast 🔒 | Committed to Building Secure and Seamless Digital Experiences 💻🛡️</h3>
+<h3 align="center">Crafting Code with React JS and Django REST Framework 🌐 | Exploring the Depths of AWS | Committed to Building Secure and Seamless Digital Experiences 💻🛡️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedansari131&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedansari131" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedansari131&theme=onedark" alt="ahmedansari131" /></a> </p>
 
-- 🔭 I’m currently working on <a href="https://github.com/ahmedansari131/Ezy-Canvas--Library">Ezy-Canvas | An editor for website builder</a>
+- 🔭 I’m currently working on <a href="https://github.com/ahmedansari131/Portfolio-Website-Builder-Server">**Brand Me - Portfolio Website Builder**</a>
 
-- 🌱 I’m currently learning **React JS**
-
-- 💬 Ask me about **HTML, CSS, Javascript, Django, Graphic Design, Logo Design**
+- 💬 Ask me about **HTML, CSS, Javascript, React JS, Django, Django REST Framework, Graphic Design, Logo Design**
 
 - 📫 How to reach me **ansarimohammadahmed49@gmail.com**
 
